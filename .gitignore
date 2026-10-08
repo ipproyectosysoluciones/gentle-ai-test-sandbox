@@ -1,2 +1,4 @@
 __pycache__/
-.atl/\n.claude/\n.mcp.json
+.atl/
+.claude/
+.mcp.json
